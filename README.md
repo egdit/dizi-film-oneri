@@ -1,7 +1,7 @@
 # 🎬 Dizi & Film Öneri Sistemi 📺  
 
 Bu proje, **makine öğrenmesi teknikleriyle kullanıcıya film ve dizi önerileri sunan** bir sistem geliştirmektedir.  
-Veriler **[Kaggle](https://www.kaggle.com)"" üzerinden alınmıştır.  
+Veriler [Kaggle](https://www.kaggle.com) üzerinden alınmıştır.  
 
 ## 📌 İçerik:  
 ✅ **Veri setini yükleme & temizleme**  
